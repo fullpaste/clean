@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const bioMessages = [
     "if you want a website like this, dm me, 8.99$ /crypto or paypal accepted",
-    "\"Hello, World!\""
+    "\"Hello, World!\", press on the icons below for socials"
   ];
   let bioText = '';
   let bioIndex = 0;
